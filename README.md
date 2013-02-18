@@ -3,12 +3,13 @@
 This is the Python project.Mobile Device database engine implemented in python using in memory database. 
 	<pre>
   Query format:
+  	<hr />
 	  - SELECT mobiles FROM 'company' WITH 'features'
 	  - conditions:
 	     - Companies can be any company.To search in all the companies give company name as 'all'
 	     - Features must be specified as follows \n \t feature operator value
 	     - WITH clause is mandatory
-	     - To get multiple the info of mobile with two or more features seperate each feature with an 'and'
+	     - To get multiple the info of mobile with two or more features seperate each feature with an 'AND'
 	     - Operators supported : '=', '<', '>'
 	    - features list 
 					- operatingsystem
