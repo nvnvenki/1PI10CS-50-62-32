@@ -1,9 +1,7 @@
-1PI10CS-50-62-32
-================
+Mobile Device database engine.
 
 This is the Python project.Mobile Device database engine implemented in python using in memory database. 
 
-Mobile database:
   Query format:
 	  - SELECT mobiles FROM 'company' WITH 'features'
 	  - conditions:
