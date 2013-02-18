@@ -26,8 +26,8 @@ This is the Python project.Mobile Device database engine implemented in python u
 	Example query:
 	Say a user wants to get the info of samsung mobiles with windows os and price less than 10000Rs and with GPS and with rearcamera
 	 The query will be
-	
+		<pre>
 		 SELECT mobiles FROM Samsung WITH operatingsystem = windows and cost < 10000 and GPS = yes and rearcamera > 00mp
-	
+		</pre>
 <pre>
 </p>
