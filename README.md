@@ -11,15 +11,15 @@ This is the Python project.Mobile Device database engine implemented in python u
 	     - To get multiple the info of mobile with two or more features seperate each feature with an 'and'
 	     - Operators supported : '=', '<', '>'
 	    - features list 
-					* operatingsystem
-					* price
-					* frontcamera
-					* rearcamera
-					* model
-					* thickness
-					* talktime
-					* GPS 
-					* type 
+					- operatingsystem
+					- price
+					- frontcamera
+					- rearcamera
+					- model
+					- thickness
+					- talktime
+					- GPS 
+					- type 
 
 	To check for the existance give 00mp for camera specifications
 	Example query:
