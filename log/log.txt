@@ -1,0 +1,4 @@
+2013-02-18 21:14:02.170376 | SELECT comething | : Invalid query 
+ 
+2013-02-18 21:15:22.194254 | SELECT mobiles FROM Nokia WITH operatingsystem | : Invalid query 
+2013-02-18 21:17:31.220974 | SELECT mobiles FROM Nokia WITH operatingsystem = S70 | 
