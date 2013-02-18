@@ -19,7 +19,8 @@ This is the Python project.Mobile Device database engine implemented in python u
 					- thickness
 					- talktime
 					- GPS 
-					- type 
+					- type
+					
 
 	To check for the existence give 00mp for camera specifications
 	Example query:
