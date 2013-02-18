@@ -1,7 +1,7 @@
 <h1>Mobile Device database engine.</h1>
 
 This is the Python project.Mobile Device database engine implemented in python using in memory database. 
-
+	<pre>
   Query format:
 	  - SELECT mobiles FROM 'company' WITH 'features'
 	  - conditions:
@@ -28,3 +28,4 @@ This is the Python project.Mobile Device database engine implemented in python u
 	 The query will be
 	
 		 SELECT mobiles FROM Samsung WITH operatingsystem = windows and cost < 10000 and GPS = yes and rearcamera > 00mp
+<pre>
