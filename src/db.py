@@ -25,7 +25,8 @@ class Database:
 			mob.specifications = eachMobile #specifications
 			if eachMobile not in mobile_db:
 				mobile_db.append(mob)
-	
+				
+		#To separate the mobiles according to companies
 		self.__categorise(mobile_db)
 
 	def __categorise(self , mobile_db):
