@@ -58,6 +58,5 @@ def main():
 		print "-" * 110
 		print "Thank you!"
 
-	except Exception as exception:
 if __name__ == '__main__':
 	main()
