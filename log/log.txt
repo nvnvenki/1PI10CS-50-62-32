@@ -2,3 +2,16 @@
  
 2013-02-18 21:15:22.194254 | SELECT mobiles FROM Nokia WITH operatingsystem | : Invalid query 
 2013-02-18 21:17:31.220974 | SELECT mobiles FROM Nokia WITH operatingsystem = S70 | 
+2013-03-01 15:07:45.286901 | SELECT mobiles FROM Samsung WITH | 
+2013-03-01 15:08:22.784160 | SELCT mobiles FROM Karbon WITH talktime > 10 | 
+2013-03-01 15:16:49.514387 | SELECT mobiles FROM KAKA WITH operatingsystem = windows | 'getset_descriptor' object is not callable
+2013-03-01 15:18:18.131470 | SELECT mobiles FROM K WITH talktime > 10 | 
+2013-03-01 15:20:04.080921 | SELECT mobiles FROM K WITH operatingsystem > windows | The company u r looking for is not found
+2013-03-01 16:00:26.878082 | SELECT mobiles FROM all WITH comapany = Nokia | Invalid Query
+2013-03-01 16:00:45.756917 | SELECT mobiles FROM all WITH company = Nokia | Invalid Query
+2013-03-01 16:01:31.639367 | SELECT mobiles FROM Nokia WITH operatingsystem = windows | Invalid Query
+2013-03-01 16:02:07.410750 | SELECT mobiles FROM Nokia WITH operatingsystem = windows | Invalid Query
+2013-03-01 16:02:42.737946 | SELECT mobiles FROM Nokia WITH operatingsystem = windows | Invalid Query
+2013-03-01 16:03:37.556000 | SELECT mobiles FROM Nokia WITH operatingsystem = windows | Invalid Query
+2013-03-01 16:06:23.878616 | SELECT mobiles FROM Nokia operatingsystem = windows AND talktime > 10 | Invalid Query
+2013-03-01 16:26:02.249440 | SELECT mobiles FROM Nokia operatingsystem = windows AND talktime > 10 | Invalid Query

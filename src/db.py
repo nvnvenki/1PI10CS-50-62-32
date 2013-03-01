@@ -62,7 +62,7 @@ class Database:
 			self.files = files
 		except IOError as exception:
 			log = open("../log/log.txt","a")
-			log.write(str(datetime.now()) + " | " + exception.message )
+			log.write(str(datetime.now()) + " | " + exception.message + "File not found!")
 			log.close()
 
 	def get_names(self):
@@ -89,7 +89,8 @@ class Database:
 				required_data['required_features'] = []
 				features_list = query_string[query_string.find('W') + 5:].replace(" ","").split('AND')
 				
-				companies_list = eval(open("../Database/" +"companies.txt").read())
+				companies_list = eval(open("../Database/companies.txt").read())
+				
 				
 				if required_data['company'] in companies_list:
 					for eachFeature in features_list:
@@ -105,10 +106,18 @@ class Database:
 						feature_details[temp[0]] = operator + temp[1]
 						#print feature_details
 						required_data['required_features'].append(feature_details)
-					self.__answer_query(required_data)  		
+					#print required_data
+					
+					self.__answer_query(required_data)
+
+				else:
+					print "The company u r looking for is not found"
+					raise Exception("The company u r looking for is not found")
+				 		
 			else:
 				print "Invalid query!!"
-				raise ValueError
+				raise Exception("Invalid Query")
+		
 		except Exception as exception:
 			log = open("../log/log.txt","a")
 			
@@ -119,7 +128,11 @@ class Database:
 		'''Validates the query'''
 		#SELECT mobiles FROM Samsung WITH operatingsystem = windows
 
-		query_pattern = "SELECT mobiles FROM (\w*) WITH (\w*) (=|>|<) (\w*)( AND (\w*) (=|>|<) (\w*))*"
+		regex1 = "SELECT mobiles FROM (\w*) WITH "
+		regex2 = "(operatingsystem|talktime|type|GPS|price|rearcamera|frontcamera|thickness|company) (=|>|<) (\w*)"
+
+		query_pattern = regex1 + regex2 +"( AND " + regex2 + ")*"
+		print query_pattern
 		m = re.match(query_pattern,query_string)
 		if m:
 			return True
@@ -137,29 +150,27 @@ class Database:
 			mobile_info = []
 			company = required_data['company'].strip()
 			companies_list = eval(open("../Database/" +"companies.txt").read())
-		
-		
-			if company in companies_list:
-				
-				if company != "all":
-					db_file = open("../Database/" +company+"/"+company+ ".txt")
-					 #this is a list of tupples => (key,specifications)
+			
+			
+			if company != "all":
+				db_file = open("../Database/" + company + "/" + company + ".txt")
+				 #this is a list of tupples => (key,specifications)
+				for eachLine in db_file:
+					mobile_info.append(eval(eachLine)[1])
+			else:
+				#companies_list = eval(open("companies.txt").read())
+				companies_list.remove("all")
+				for eachCompany in companies_list:
+					db_file = open("../Database/" +eachCompany + "/" + eachCompany + ".txt")
+				    #this is a list of tupples => (key,specifications)
 					for eachLine in db_file:
 						mobile_info.append(eval(eachLine)[1])
-				else:
-					#companies_list = eval(open("companies.txt").read())
-					companies_list.remove("all")
-					for eachCompany in companies_list:
-						db_file = open("../Database/" +eachCompany + "/" + eachCompany + ".txt")
-					    #this is a list of tupples => (key,specifications)
-						for eachLine in db_file:
-							mobile_info.append(eval(eachLine)[1])
 
-						db_file.close()
+					db_file.close()
 				
-				del required_data['company']
+			del required_data['company']
 				
-				for eachFeatureRequired in required_data.keys():
+			for eachFeatureRequired in required_data.keys():
 					features = required_data[eachFeatureRequired]
 					for eachMobile in mobile_info:
 						num = []
@@ -169,7 +180,11 @@ class Database:
 							if eachMobile.has_key(key):
 								operator = value[0]
 								value = value[1:]
+								if value.isdigit():
+									value = int(value)
 								left = eachMobile[key]
+								if left.isdigit():
+									left = int(left)
 								if operator == '=':
 									num.append(left == value)
 								elif operator == '>':
@@ -181,20 +196,15 @@ class Database:
 						if flag:
 							selected_mobiles.append( company + ":" + str(eachMobile))
 
-				self.__show_result(selected_mobiles)
+			self.__show_result(selected_mobiles)
 			
-			else:
-				print "Company that your are looking for is not found in the database!!"
-				raise ValueError
-		
-
-
+			
 	def __show_result(self,selected_mobiles):
 		'''displaying result set'''
 
 		if len(selected_mobiles) == 0:
 			print "No mobile is found with the given features in the database!"
-			raise ValueError
+			
 		else:
 			keys = eval(selected_mobiles[0][selected_mobiles[0].find("{"):]).keys()
 			for eachMobile in selected_mobiles:
@@ -202,6 +212,7 @@ class Database:
 				eachMobile = eachMobile[eachMobile.find("{"):]
 				_dict = eval(eachMobile)
 				self.__format(_dict,keys)
+
 
 
 	def __format(self,_dict,keys):

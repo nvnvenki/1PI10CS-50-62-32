@@ -1,1 +1,1 @@
-['Samsung', 'SonyEricsson', 'BlackBerry', 'Nokia', 'Lg', 'all']
+['Nokia', 'Samsung', 'SonyEricsson', 'BlackBerry', 'Lg', 'all']
