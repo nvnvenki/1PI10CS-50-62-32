@@ -2,8 +2,8 @@
 <p>
 This is the Python project.Mobile Device database engine implemented in python using in memory database. 
 <pre>
-	<h4>
-		-command</h4>: save - to load the data to the database
+	
+		-commands    : save - to load the data to the database
 					 : query - to query the database
 					 : close - to close the connection with the server
 	
