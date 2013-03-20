@@ -2,6 +2,11 @@
 <p>
 This is the Python project.Mobile Device database engine implemented in python using in memory database. 
 <pre>
+	<h4>
+		-command</h4>: save - to load the data to the database
+					 : query - to query the database
+					 : close - to close the connection with the server
+	
  <h4> Query format: </h4>
   	<hr />
 	  - SELECT mobiles FROM 'company' WITH 'features'
@@ -10,7 +15,7 @@ This is the Python project.Mobile Device database engine implemented in python u
 	     - Features must be specified as follows \n \t feature operator value
 	     - WITH clause is mandatory
 	     - To get multiple the info of mobile with two or more features seperate each feature with an 'AND'
-	     - Operators supported : '=', '<', '>'
+	     - Operators supported : '=', '&lt;', '&gt;'
 	    - features list 
 					- operatingsystem
 					- price
