@@ -14,4 +14,16 @@
 2013-03-01 16:02:42.737946 | SELECT mobiles FROM Nokia WITH operatingsystem = windows | Invalid Query
 2013-03-01 16:03:37.556000 | SELECT mobiles FROM Nokia WITH operatingsystem = windows | Invalid Query
 2013-03-01 16:06:23.878616 | SELECT mobiles FROM Nokia operatingsystem = windows AND talktime > 10 | Invalid Query
-2013-03-01 16:26:02.249440 | SELECT mobiles FROM Nokia operatingsystem = windows AND talktime > 10 | Invalid Query
+2013-03-01 16:26:02.249440 | SELECT mobiles FROM Nokia operatingsystem = windows AND talktime > 10 | Invalid Query2013-03-01 23:11:45.807964 | SELECT mobiles FROM Celkon WITH operatingsystem = android | The company u r looking for is not found
+2013-03-01 23:22:02.346243 | 3 | Invalid Query
+2013-03-16 08:25:24.891000 | SELECT mobiles FROM Nokia WITH operatingsystem = windows | 'str' object has no attribute 'append'
+2013-03-16 08:30:00.583000 | SELECT mobiles FROM Nokia WITH price > 15000 AND price < 10000 | 'str' object has no attribute 'append'
+2013-03-16 08:32:07.541000 | SELECT mobiles FROM Nokia WITH operatingsystem = windows | 'str' object has no attribute 'append'
+2013-03-16 08:34:19.044000 | SELECT mobiles FROM Nokia WITH price > 10000 | 'str' object has no attribute 'append'
+2013-03-16 08:36:03.852000 | SELECT mobiles FROM Nokia WITH price > 15000 | 'str' object has no attribute 'append'
+2013-03-16 08:38:04.489000 | SELECT mobiles FROM Nokia WITH price > 10000 | 'str' object has no attribute 'append'
+2013-03-16 08:40:34.147000 | SELECT mobiles FROM Nokia WITH price > 10000 | 'str' object has no attribute 'append'
+2013-03-16 08:43:07.107000 | SELECT mobiles FROM Nokia WITH price > 10000 AND price < 12000 | 'str' object has no attribute 'append'
+2013-03-16 08:44:53.448000 | SELECT mobiles FROM Nokia WITH price > 10000 | 'str' object has no attribute 'append'
+2013-03-16 08:46:42.337000 | SELECT mobiles FROM Nokia WITH price > 20000 | 'str' object has no attribute 'append'
+2013-03-16 08:50:34.889000 | SELECT mobiles FORM Nokia WITH price > 10000 | Invalid Query

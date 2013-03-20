@@ -26,7 +26,7 @@ def main():
 
 	
 	Say a user wants to get the info of samsung mobiles with windows os and price less than 10000Rs and with GPS and with rearcamera\n \t The query will be
-	\t\t SELECT mobiles FROM Samsung WITH operatingsystem = windows and cost < 10000 and GPS = yes and rearcamera > 0"""
+	\t\t SELECT mobiles FROM Samsung WITH operatingsystem = windows and price < 10000 and GPS = yes and rearcamera > 0"""
 
 	
 	

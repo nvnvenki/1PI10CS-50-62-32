@@ -217,11 +217,21 @@ class Database:
 
 	def __format(self,_dict,keys):
 		'''formatting the output'''
-		print '-' * 110
+		f = open("..\\Answer\\results.txt","w")
+		f.close()
+		buffer_file = open("..\\Answer\\results.txt","a")
+		#print '-' * 110
+		buffer_file.write('-' * 110 + '\n')
 		for key in keys:
 			if _dict[key] == '':
-				print key.ljust(20) + ":no"
+				#print key.ljust(20) + ":no"
+				buffer_file.write(key.ljust(20) + ":no" + '\n')
 			else:
-				print key.ljust(20) + ":" + _dict[key]
-		print '-' * 110
+				#print key.ljust(20) + ":" + _dict[key]
+				buffer_file.write(key.ljust(20) + ":" + _dict[key] + '\n')
+		#print '-' * 110
+		buffer_file.write('-' * 110 + '\n')
+		buffer_file.close()
+
+
 
