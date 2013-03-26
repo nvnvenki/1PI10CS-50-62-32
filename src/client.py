@@ -37,7 +37,7 @@ def main():
 	try:
 		socket_ = socket.socket(socket.AF_INET,socket.SOCK_STREAM) #TCP socket to the server
 		host = socket.gethostname() #get the local machine name
-		port = 12347 #Server port
+		port = 12345 #Server port
 
 		print "Connecting to database server ",host," to the port ",port
 		socket_.connect((host,port))
@@ -53,10 +53,10 @@ def main():
 				if message in ['close','save','query']:
 					print "Invalid command"
 					continue
-				f = open("..\\Answer\\client.txt","w")
+				f = open("../Answer/client.txt","w")
 				f.close()
 				socket_.send(message)
-				with open("..\\Answer\\client.txt","ab") as fobj:
+				with open("../Answer/client.txt","ab") as fobj:
 					line = socket_.recv(1024)
 					while line:
 						fobj.write(line)
@@ -69,11 +69,13 @@ def main():
 				print "Loading data into the database..please wait"
 				message = socket_.recv(1025)
 			
-				message = eval(message)
-				print "response>>",message[0]
-				if message[1] == 0:
-					sys.exit()
-			
+			message = eval(message)
+			print "response>>",message[0]
+			if message[1] == 0:
+				socket_.close()
+				sys.exit()
+			else:
+				continue
 
 	except Exception:
 		print "Something went wrong!"

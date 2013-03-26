@@ -22,19 +22,12 @@ def process_request(client,address):
 			client.send(str(("Database is saved!!",1)))
 		else:
 			database.query(message)
-			with open("..\\Answer\\results.txt","rb") as fobj:
+			with open("../Answer/results.txt","rb") as fobj:
 				line = fobj.read(1024)
 				while line:
 					client.send(line)
 					line = fobj.read(1024)
 			print "sending complete"
-		'''
-		message = client.recv(1024)
-		print  address,": >> :", message
-		client.send(message)
-		if(message == "end-connection"):
-			break;
-		'''
 
 	client.close()
 
@@ -44,7 +37,7 @@ def main():
 	try:
 		socket_ = socket.socket(socket.AF_INET,socket.SOCK_STREAM) # TCP socket
 		host = socket.gethostname() #host name
-		port = 12347 # port number
+		port = 12345 # port number
 
 		print "Server started!"
 		socket_.bind((host,port))

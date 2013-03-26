@@ -132,7 +132,7 @@ class Database:
 		regex2 = "(operatingsystem|talktime|type|GPS|price|rearcamera|frontcamera|thickness|company) (=|>|<) (\w*)"
 
 		query_pattern = regex1 + regex2 +"( AND " + regex2 + ")*"
-		print query_pattern
+		# print query_pattern
 		m = re.match(query_pattern,query_string)
 		if m:
 			return True
@@ -206,6 +206,8 @@ class Database:
 			print "No mobile is found with the given features in the database!"
 			
 		else:
+			f = open("../Answer/results.txt","w")
+			f.close()
 			keys = eval(selected_mobiles[0][selected_mobiles[0].find("{"):]).keys()
 			for eachMobile in selected_mobiles:
 				#print eachMobile
@@ -217,20 +219,19 @@ class Database:
 
 	def __format(self,_dict,keys):
 		'''formatting the output'''
-		f = open("..\\Answer\\results.txt","w")
-		f.close()
-		buffer_file = open("..\\Answer\\results.txt","a")
-		#print '-' * 110
-		buffer_file.write('-' * 110 + '\n')
+		
+		buffer_file = open("../Answer/results.txt","a")
+		print '-' * 110
+		buffer_file.writelines('-' * 110 + '\n')
 		for key in keys:
 			if _dict[key] == '':
-				#print key.ljust(20) + ":no"
-				buffer_file.write(key.ljust(20) + ":no" + '\n')
+				print key.ljust(20) + ":no"
+				buffer_file.writelines(key.ljust(20) + ":no" + '\n')
 			else:
-				#print key.ljust(20) + ":" + _dict[key]
-				buffer_file.write(key.ljust(20) + ":" + _dict[key] + '\n')
-		#print '-' * 110
-		buffer_file.write('-' * 110 + '\n')
+				print key.ljust(20) + ":" + _dict[key]
+				buffer_file.writelines(key.ljust(20) + ":" + _dict[key] + '\n')
+		print '-' * 110
+		buffer_file.writelines('-' * 110 + '\n')
 		buffer_file.close()
 
 
