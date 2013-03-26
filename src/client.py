@@ -69,13 +69,12 @@ def main():
 				print "Loading data into the database..please wait"
 				message = socket_.recv(1025)
 			
-			message = eval(message)
-			print "response>>",message[0]
-			if message[1] == 0:
-				socket_.close()
-				sys.exit()
-			else:
-				continue
+				message = eval(message)
+				print "response>>",message[0]
+				if message[1] == 0:
+					socket_.close()
+					sys.exit()
+			
 
 	except Exception:
 		print "Something went wrong!"
