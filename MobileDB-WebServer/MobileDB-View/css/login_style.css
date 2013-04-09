@@ -1,0 +1,186 @@
+
+.signup-container{
+	display: none;
+	top:0;
+}
+div.title
+{
+	margin-top: -15px;
+	padding-top: 13px;
+	text-align: center;
+	background: rgba(0,0,0,0.4);
+	
+	box-shadow: 0 2px 8px rgba(0,0,0,0.5), 
+				inset 0 1px rgba(255,255,255,0.3),
+				inset 0 10px 10px rgba(255,255,255,0.2), 
+				inset 0 -15px 30px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.5),
+				inset 0 1px rgba(255,255,255,0.3), 
+				inset 0 10px 10px rgba(255,255,255,0.2), 
+				inset 0 -15px 30px rgba(0,0,0,0.3);
+}
+
+#username-label,#password-label
+{
+	margin-left: 78px;
+}
+div.signin-container
+{
+	margin:auto;
+	margin-top: 180px;
+}
+div.signin-container
+{
+	position: relative;
+	background: rgba(0,0,0,0.4);
+	border-radius: 5px;
+	width:300px;
+	padding-top: 40px;
+	padding-left: 10px;
+	line-height: 25px;
+	min-height: 230px;
+	border: 1px solid rgba(0,0,0,0.1);
+	border-bottom: 2px solid rgba(0,0,0,0.1);
+	box-shadow: 0 2px 8px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -20px 30px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -20px 30px rgba(0,0,0,0.3);
+}
+
+#signin-here
+{
+	margin-top: -25px;
+	margin-left: 90px;
+}
+
+#signup-title
+{
+	margin-left: 160px;
+}
+
+
+#username,#password{
+	display:block;
+}
+.username-div,.password-div
+{
+	line-height: 30px;
+	padding-left: 30px;
+	font-weight: bold;
+}
+#signup-form label
+{
+	margin-left: 180px;
+}
+#username,#name,#password,#email,#username-entered,#password-entered,#query-input,#username-s,#password-s
+{
+	width: 80%;
+	height: 23px;
+	text-align: center;
+	font-size: 15px;
+	outline: 0;
+	padding: 2px 6px 2px 6px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+
+	box-shadow: inset 0 1px 1px #ccc;
+	-webkit-box-shadow: inset 0 1px 1px #ccc;
+}
+
+#username:focus,#password:focus,#name:focus,#email:focus,#username-entered:focus,#password-entered:focus,#query-input:focus
+{
+	border-color: rgba(82,168,236,0.8);	
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.075),
+	 			0 1px 8px rgba(82,168,236,0.6), 
+	 			0 -1px 8px rgba(82,168,236,0.6);
+	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075), 
+						0 1px 8px rgba(82,168,236,0.6), 
+						0 -1px 8px rgba(82,168,236,0.6);
+	-webkit-transition: border linear 0.4s,box-shadow linear 0.4s;
+	-moz-transition: border linear 0.4s,box-shadow linear 0.4s;
+}
+
+
+.signin-button
+{
+	margin-left: 100px;
+	margin-top: 20px;
+}
+
+.signup-button
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 313px;
+}
+
+#close-button{
+	position: absolute;
+	margin-top: -60px;
+	margin-left: 465px;
+	cursor: pointer;
+}
+#signup-text
+{
+	cursor: pointer;
+	margin-left: 82px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.signup-container {
+	position: absolute;
+	color: #D3D3D3;
+	background: rgba(0,0,0,0.4);
+	border-radius: 3px;
+	width: 500px;
+	font-size: 15px;
+	font-weight: bold;
+	margin: 130px 0 0 386px;
+	padding-left: 75px;
+	line-height: 35px;
+	border: 1px solid rgba(0,0,0,0.1);
+	border-bottom: 2px solid rgba(0,0,0,0.1);
+
+	box-shadow: 0 2px 8px rgba(0,0,0,0.5), 
+				inset 0 1px rgba(255,255,255,0.3), 
+				inset 0 10px rgba(255,255,255,0.2), 
+				inset 0 10px 20px rgba(255,255,255,0.25), 
+				inset 0 -20px 30px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.5),
+	 					inset 0 1px rgba(255,255,255,0.3), 
+	 					inset 0 10px rgba(255,255,255,0.2), 
+	 					inset 0 10px 20px rgba(255,255,255,0.25), 
+	 					inset 0 -20px 30px rgba(0,0,0,0.3);
+	
+}
+#email,#username-entered,#password-entered,#name,#username-s,#password-s{
+	display: block;
+}
+
+#close-button:hover:after{
+    background: black;
+    border-radius: 5px;
+    color: #fff;
+    margin-left: 10px;
+    opacity: 0.6;
+    content: attr(data-tooltip);
+    padding: 5px 15px;
+    width: 220px;
+}
+.warning-text-invalid-login
+{
+	margin-left: -50px;
+	margin-bottom: -20px;
+	font-size: 20px;
+	color: red;
+	font-weight: 1000;
+
+}
+
+@-moz-document url-prefix()
+{
+	#signup-text
+	{
+		margin-left: 70px;
+	}
+
+}

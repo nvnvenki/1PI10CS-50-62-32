@@ -1,0 +1,62 @@
+#logout{
+	position: relative;
+	margin-top: -47px;
+	margin-left: 1250px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+div.results
+{
+	width:900px;
+	font-family: 'Gilda Display', serif;
+	font-weight: 700;
+	margin:200px;
+	margin-top: 20px;
+	border-radius: 10px;
+	background: transparent;
+}
+
+#query-input{
+	margin-left:300px;
+	width: 600px;
+}
+
+img {
+	width:40px;
+	height: 40px;
+}
+
+#brand-name{
+	margin-left: 30px;
+}
+
+div.content {
+	font-size: 15px;
+	border-radius: 20px;
+}
+#result-text
+{
+	margin-left:500px;
+	text-shadow:2px 1px 5px black;
+}
+td{
+	
+	text-align: center;
+  	vertical-align: middle;
+  	width: 400px;
+  	border-radius: 10px;
+}
+table{
+	border-radius: 10px;
+	/*box-shadow: 1px 2px 5px black;*/
+}
+
+tr td:nth-child(1)
+{
+	color:#ffffff;
+    background: -moz-linear-gradient(top,  #1e5799 0%, #2375e0 39%, #7db9e8 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e5799), color-stop(39%,#2375e0), color-stop(100%,#7db9e8)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #1e5799 0%,#2375e0 39%,#7db9e8 100%); /* Chrome10+,Safari5.1+ */
+
+}
