@@ -22,11 +22,12 @@ def process_request(client,address):
 			client.send(str(("Database is saved!!",1)))
 		else:
 			database.query(message)
-			with open("../Answer/results.txt","rb") as fobj:
+			with open("../Answer/results.txt","r",0) as fobj:
 				line = fobj.read(1024)
 				while line:
 					client.send(line)
 					line = fobj.read(1024)
+				client.send('close')
 			print "sending complete"
 
 	client.close()

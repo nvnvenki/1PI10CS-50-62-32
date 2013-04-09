@@ -56,11 +56,12 @@ def main():
 				f = open("../Answer/client.txt","w")
 				f.close()
 				socket_.send(message)
-				with open("../Answer/client.txt","ab") as fobj:
+				with open("../Answer/client.txt","a",0) as fobj:
 					line = socket_.recv(1024)
-					while line:
+					while 'close' not in line:
 						fobj.write(line)
 						line = socket_.recv(1024)
+					print "here"
 				fobj.close()
 				continue
 				
@@ -74,6 +75,11 @@ def main():
 				if message[1] == 0:
 					socket_.close()
 					sys.exit()
+				continue
+			if last_command == "close":
+				print "terminating connection"
+				socket_.close()
+				sys.exit()
 			
 
 	except Exception:

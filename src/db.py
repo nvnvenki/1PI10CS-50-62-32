@@ -221,16 +221,12 @@ class Database:
 		'''formatting the output'''
 		
 		buffer_file = open("../Answer/results.txt","a")
-		print '-' * 110
 		buffer_file.writelines('-' * 110 + '\n')
 		for key in keys:
 			if _dict[key] == '':
-				print key.ljust(20) + ":no"
 				buffer_file.writelines(key.ljust(20) + ":no" + '\n')
 			else:
-				print key.ljust(20) + ":" + _dict[key]
 				buffer_file.writelines(key.ljust(20) + ":" + _dict[key] + '\n')
-		print '-' * 110
 		buffer_file.writelines('-' * 110 + '\n')
 		buffer_file.close()
 
