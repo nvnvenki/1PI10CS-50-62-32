@@ -32,7 +32,7 @@ Toast.prototype.createToast = function()
 
 		 	return  ($(window).width()/2)- (parseInt($toast.width)/2);
 		 },
-	})
+	}).addClass("toast")
 	.appendTo($toast.div);
 
 	return toast;

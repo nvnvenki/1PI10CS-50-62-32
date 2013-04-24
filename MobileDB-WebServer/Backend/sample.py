@@ -140,6 +140,7 @@ def answer(required_data,select_clause):
         for each_elem in select_clause:
             select_clause_dict[each_elem] = 1
         select_clause_dict['Image'] = 1
+        select_clause_dict['Brand'] = 1
         final_list = []
         final_list.append(final_dict)
         final_list.append(select_clause_dict)
