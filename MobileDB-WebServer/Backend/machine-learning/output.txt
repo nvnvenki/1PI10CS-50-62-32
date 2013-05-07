@@ -1,0 +1,952 @@
+Mobile: Asha 210 Class :  low_end
+Mobile: Lumia 720 Class :  mid_range
+Mobile: Lumia 520 Class :  mid_range
+Mobile: 301 Class :  low_end
+Mobile: 105 Class :  low_end
+Mobile: Asha 310 Class :  low_end
+Mobile: Lumia 505 Class :  mid_range
+Mobile: Lumia 620 Class :  mid_range
+Mobile: 114 Class :  low_end
+Mobile: 206 Class :  low_end
+Mobile: Asha 205 Class :  low_end
+Mobile: 109 Class :  low_end
+Mobile: Lumia 822 Class :  high_end
+Mobile: Lumia 510 Class :  mid_range
+Mobile: 113 Class :  low_end
+Mobile: Lumia 810 Class :  high_end
+Mobile: Asha 309 Class :  low_end
+Mobile: Asha 308 Class :  low_end
+Mobile: Lumia 920 Class :  high_end
+Mobile: Lumia 820 Class :  mid_range
+Mobile: Asha 311 Class :  low_end
+Mobile: Asha 306 Class :  mid_range
+Mobile: Asha 305 Class :  low_end
+Mobile: 112 Class :  low_end
+Mobile: 111 Class :  low_end
+Mobile: 110 Class :  low_end
+Mobile: Lumia 610 NFC Class :  mid_range
+Mobile: 103 Class :  low_end
+Mobile: 808 PureView Class :  high_end
+Mobile: 800c Class :  high_end
+Mobile: Lumia 610 Class :  mid_range
+Mobile: Asha 302 Class :  low_end
+Mobile: Asha 203 Class :  mid_range
+Mobile: Asha 202 Class :  low_end
+Mobile: Lumia 900 Class :  mid_range
+Mobile: Lumia 900 AT&T Class :  mid_range
+Mobile: 801T Class :  high_end
+Mobile: X2-02 Class :  low_end
+Mobile: Lumia 800 Class :  mid_range
+Mobile: Lumia 710 T-Mobile Class :  mid_range
+Mobile: Lumia 710 Class :  mid_range
+Mobile: Asha 303 Class :  mid_range
+Mobile: Asha 300 Class :  low_end
+Mobile: Asha 201 Class :  low_end
+Mobile: Asha 200 Class :  low_end
+Mobile: 603 Class :  mid_range
+Mobile: C2-05 Class :  low_end
+Mobile: X2-05 Class :  low_end
+Mobile: C5-06 Class :  mid_range
+Mobile: C5-05 Class :  low_end
+Mobile: C5-04 Class :  mid_range
+Mobile: 101 Class :  low_end
+Mobile: 100 Class :  low_end
+Mobile: 701 Class :  mid_range
+Mobile: 700 Class :  mid_range
+Mobile: 600 Class :  mid_range
+Mobile: C3-01 Gold Edition Class :  mid_range
+Mobile: 500 Class :  mid_range
+Mobile: N9 Class :  mid_range
+Mobile: C5 5MP Class :  mid_range
+Mobile: C2-06 Class :  mid_range
+Mobile: C2-03 Class :  low_end
+Mobile: C2-02 Class :  low_end
+Mobile: 702T Class :  high_end
+Mobile: T7 Class :  high_end
+Mobile: N950 Class :  mid_range
+Mobile: Oro Class :  high_end
+Mobile: X1-01 Class :  low_end
+Mobile: X7-00 Class :  mid_range
+Mobile: C7 Astound Class :  mid_range
+Mobile: E6 Class :  mid_range
+Mobile: X1-00 Class :  low_end
+Mobile: X2-01 Class :  low_end
+Mobile: C2-01 Class :  low_end
+Mobile: C5-03 Class :  mid_range
+Mobile: E7 Class :  mid_range
+Mobile: C6-01 Class :  mid_range
+Mobile: C7 Class :  mid_range
+Mobile: C3-01 Touch and Type Class :  mid_range
+Mobile: 5250 Class :  low_end
+Mobile: X3 Touch and Type S Class :  mid_range
+Mobile: X3-02 Touch and Type Class :  mid_range
+Mobile: X6 8GB Class :  mid_range
+Mobile: X5-01 Class :  mid_range
+Mobile: 5233 Class :  mid_range
+Mobile: E73 Mode Class :  mid_range
+Mobile: C2-00 Class :  low_end
+Mobile: C1-02 Class :  low_end
+Mobile: C1-01 Class :  low_end
+Mobile: C1-00 Class :  low_end
+Mobile: N8 Class :  mid_range
+Mobile: X2 Class :  low_end
+Mobile: C6 Class :  mid_range
+Mobile: E5 Class :  mid_range
+Mobile: C3 Class :  low_end
+Mobile: C5 Class :  mid_range
+Mobile: C5 TD-SCDMA Class :  mid_range
+Mobile: X5 TD-SCDMA Class :  mid_range
+Mobile: 6303i classic Class :  mid_range
+Mobile: 5132 XpressMusic Class :  mid_range
+Mobile: X6 16GB Class :  mid_range
+Mobile: 2710 Navigation Edition Class :  mid_range
+Mobile: X6 Class :  mid_range
+Mobile: 6700 slide Class :  mid_range
+Mobile: 7230 Class :  low_end
+Mobile: 5330 Mobile TV Edition Class :  mid_range
+Mobile: 2690 Class :  low_end
+Mobile: 2220 slide Class :  low_end
+Mobile: 1800 Class :  low_end
+Mobile: 1616 Class :  low_end
+Mobile: 1280 Class :  low_end
+Mobile: 5235 Comes With Music Class :  mid_range
+Mobile: 6788 Class :  mid_range
+Mobile: N97 mini Class :  mid_range
+Mobile: X3 Class :  low_end
+Mobile: N900 Class :  mid_range
+Mobile: 5230 Class :  low_end
+Mobile: 3208c Class :  mid_range
+Mobile: 5800 Navigation Edition Class :  mid_range
+Mobile: 6350 Class :  mid_range
+Mobile: Mural Class :  mid_range
+Mobile: 6760 slide Class :  mid_range
+Mobile: 6790 Surge Class :  mid_range
+Mobile: 3720 classic Class :  mid_range
+Mobile: 5530 XpressMusic Class :  mid_range
+Mobile: E72 Class :  mid_range
+Mobile: 3710 fold Class :  low_end
+Mobile: 6730 classic Class :  mid_range
+Mobile: 6600i slide Class :  mid_range
+Mobile: 7020 Class :  low_end
+Mobile: 2720 fold Class :  low_end
+Mobile: 2730 classic Class :  low_end
+Mobile: E52 Class :  mid_range
+Mobile: 6216 classic Class :  mid_range
+Mobile: 5730 XpressMusic Class :  mid_range
+Mobile: 5330 XpressMusic Class :  mid_range
+Mobile: 5030 XpressRadio Class :  low_end
+Mobile: N86 8MP Class :  high_end
+Mobile: E75 Class :  mid_range
+Mobile: E55 Class :  mid_range
+Mobile: 6720 classic Class :  mid_range
+Mobile: 6710 Navigator Class :  mid_range
+Mobile: 5630 XpressMusic Class :  mid_range
+Mobile: 6700 classic Class :  mid_range
+Mobile: 6303 classic Class :  mid_range
+Mobile: 2700 classic Class :  low_end
+Mobile: 6208c Class :  mid_range
+Mobile: 8800 Gold Arte Class :  high_end
+Mobile: N97 Class :  mid_range
+Mobile: 6260 slide Class :  mid_range
+Mobile: E63 Class :  mid_range
+Mobile: 7100 Supernova Class :  low_end
+Mobile: 5130 XpressMusic Class :  low_end
+Mobile: 2330 classic Class :  low_end
+Mobile: 2323 classic Class :  low_end
+Mobile: 1662 Class :  low_end
+Mobile: 1661 Class :  low_end
+Mobile: 1202 Class :  low_end
+Mobile: 5800 XpressMusic Class :  mid_range
+Mobile: N85 Class :  mid_range
+Mobile: N79 Class :  mid_range
+Mobile: 8800 Carbon Arte Class :  high_end
+Mobile: 3610 fold Class :  mid_range
+Mobile: 7610 Supernova Class :  mid_range
+Mobile: 7510 Supernova Class :  mid_range
+Mobile: 7310 Supernova Class :  mid_range
+Mobile: 7210 Supernova Class :  low_end
+Mobile: E71 Class :  mid_range
+Mobile: E66 Class :  mid_range
+Mobile: 6600 fold Class :  mid_range
+Mobile: 703 Class :  mid_range
+Mobile: 6600 slide Class :  mid_range
+Mobile: 3600 slide Class :  mid_range
+Mobile: 5320 XpressMusic Class :  mid_range
+Mobile: 5220 XpressMusic Class :  mid_range
+Mobile: 6212 classic Class :  mid_range
+Mobile: 5000 Class :  low_end
+Mobile: 7070 Prism Class :  low_end
+Mobile: 2680 slide Class :  low_end
+Mobile: 1680 classic Class :  low_end
+Mobile: 6300i Class :  mid_range
+Mobile: N96 Class :  mid_range
+Mobile: N78 Class :  mid_range
+Mobile: 6220 classic Class :  mid_range
+Mobile: 6210 Navigator Class :  mid_range
+Mobile: 6124 classic Class :  mid_range
+Mobile: 6650 fold Class :  low_end
+Mobile: 3555 Class :  low_end
+Mobile: 3120 classic Class :  mid_range
+Mobile: 7900 Crystal Prism Class :  mid_range
+Mobile: 2600 classic Class :  low_end
+Mobile: 1209 Class :  low_end
+Mobile: 3110 Evolve Class :  mid_range
+Mobile: N82 Class :  mid_range
+Mobile: 8800 Sapphire Arte Class :  high_end
+Mobile: 8800 Arte Class :  high_end
+Mobile: 6301 Class :  mid_range
+Mobile: E51 Class :  mid_range
+Mobile: E51 camera-free Class :  mid_range
+Mobile: 6263 Class :  low_end
+Mobile: N81 8GB Class :  mid_range
+Mobile: N81 Class :  mid_range
+Mobile: N95 8GB Class :  mid_range
+Mobile: 5610 XpressMusic Class :  mid_range
+Mobile: 5310 XpressMusic Class :  mid_range
+Mobile: 6555 Class :  low_end
+Mobile: 7900 Prism Class :  mid_range
+Mobile: 7500 Prism Class :  mid_range
+Mobile: 8600 Luna Class :  mid_range
+Mobile: 6500 slide Class :  mid_range
+Mobile: 6500 classic Class :  mid_range
+Mobile: N810 Class :  low_end
+Mobile: 3500 classic Class :  low_end
+Mobile: 2630 Class :  low_end
+Mobile: N87 Class :  mid_range
+Mobile: 6267 Class :  mid_range
+Mobile: 2760 Class :  low_end
+Mobile: 2660 Class :  low_end
+Mobile: 1650 Class :  low_end
+Mobile: 1208 Class :  low_end
+Mobile: 1200 Class :  low_end
+Mobile: 6120 classic Class :  mid_range
+Mobile: 6121 classic Class :  mid_range
+Mobile: 5700 Class :  mid_range
+Mobile: 5070 Class :  low_end
+Mobile: E90 Class :  high_end
+Mobile: E65 Class :  mid_range
+Mobile: E61i Class :  mid_range
+Mobile: N77 Class :  mid_range
+Mobile: 6110 Navigator Class :  mid_range
+Mobile: N800 Class :  high_end
+Mobile: 3109 classic Class :  low_end
+Mobile: 3110 classic Class :  mid_range
+Mobile: N76 Class :  mid_range
+Mobile: N93i Class :  high_end
+Mobile: 6290 Class :  mid_range
+Mobile: 6086 Class :  mid_range
+Mobile: 6300 Class :  low_end
+Mobile: 2626 Class :  low_end
+Mobile: N95 Class :  mid_range
+Mobile: N75 Class :  mid_range
+Mobile: 5300 Class :  mid_range
+Mobile: 5200 Class :  low_end
+Mobile: 6288 Class :  mid_range
+Mobile: 6085 Class :  low_end
+Mobile: 8800 Sirocco Class :  high_end
+Mobile: 7390 Class :  mid_range
+Mobile: 7373 Class :  mid_range
+Mobile: 6151 Class :  mid_range
+Mobile: 6080 Class :  low_end
+Mobile: 1110i Class :  low_end
+Mobile: E50 Class :  mid_range
+Mobile: 5500 Sport Class :  mid_range
+Mobile: N93 Class :  high_end
+Mobile: N73 Class :  mid_range
+Mobile: N72 Class :  mid_range
+Mobile: 2610 Class :  low_end
+Mobile: 2310 Class :  low_end
+Mobile: 1112 Class :  low_end
+Mobile: 6136 Class :  mid_range
+Mobile: 6133 Class :  mid_range
+Mobile: 6131 Class :  mid_range
+Mobile: 6126 Class :  mid_range
+Mobile: 6070 Class :  low_end
+Mobile: 6125 Class :  mid_range
+Mobile: 6103 Class :  mid_range
+Mobile: 6233 Class :  mid_range
+Mobile: 6234 Class :  mid_range
+Mobile: 6282 Class :  mid_range
+Mobile: 9300i Class :  mid_range
+Mobile: N92 Class :  high_end
+Mobile: N80 Class :  mid_range
+Mobile: N71 Class :  mid_range
+Mobile: 7380 Class :  mid_range
+Mobile: 7370 Class :  mid_range
+Mobile: 7360 Class :  mid_range
+Mobile: E70 Class :  mid_range
+Mobile: E62 Class :  mid_range
+Mobile: E61 Class :  mid_range
+Mobile: E60 Class :  mid_range
+Mobile: 3250 Class :  mid_range
+Mobile: 6708 Class :  mid_range
+Mobile: 6280 Class :  mid_range
+Mobile: 6270 Class :  mid_range
+Mobile: 6111 Class :  mid_range
+Mobile: 6060 Class :  low_end
+Mobile: N91 Class :  mid_range
+Mobile: N90 Class :  mid_range
+Mobile: N70 Class :  mid_range
+Mobile: 2652 Class :  low_end
+Mobile: 1600 Class :  low_end
+Mobile: 1110 Class :  low_end
+Mobile: 1101 Class :  low_end
+Mobile: 5140i Class :  mid_range
+Mobile: 8800 Class :  high_end
+Mobile: 6230i Class :  mid_range
+Mobile: 6021 Class :  mid_range
+Mobile: 6030 Class :  low_end
+Mobile: 6680 Class :  mid_range
+Mobile: 6681 Class :  mid_range
+Mobile: 6101 Class :  mid_range
+Mobile: 6822 Class :  mid_range
+Mobile: 7710 Class :  mid_range
+Mobile: 6020 Class :  mid_range
+Mobile: 3230 Class :  mid_range
+Mobile: 6670 Class :  mid_range
+Mobile: 7280 Class :  mid_range
+Mobile: 7270 Class :  mid_range
+Mobile: 7260 Class :  high_end
+Mobile: 9300 Class :  mid_range
+Mobile: 6630 Class :  mid_range
+Mobile: 6260 Class :  mid_range
+Mobile: 6170 Class :  mid_range
+Mobile: 3128 Class :  low_end
+Mobile: 2650 Class :  low_end
+Mobile: 2600 Class :  low_end
+Mobile: 3220 Class :  low_end
+Mobile: N-Gage QD Class :  mid_range
+Mobile: 3120 Class :  low_end
+Mobile: 7610 Class :  mid_range
+Mobile: 9500 Class :  high_end
+Mobile: 5140 Class :  high_end
+Mobile: 6610i Class :  low_end
+Mobile: 3108 Class :  low_end
+Mobile: 7700 Class :  low_end
+Mobile: 7200 Class :  low_end
+Mobile: 6230 Class :  mid_range
+Mobile: 6820 Class :  mid_range
+Mobile: 6810 Class :  mid_range
+Mobile: 3660 Class :  mid_range
+Mobile: 7600 Class :  mid_range
+Mobile: 3200 Class :  low_end
+Mobile: 2300 Class :  low_end
+Mobile: 1100 Class :  low_end
+Mobile: 6620 Class :  mid_range
+Mobile: 6600 Class :  mid_range
+Mobile: 3100 Class :  low_end
+Mobile: 7250i Class :  low_end
+Mobile: 6108 Class :  low_end
+Mobile: 6220 Class :  low_end
+Mobile: 3300 Class :  mid_range
+Mobile: N-Gage Class :  mid_range
+Mobile: 7250 Class :  low_end
+Mobile: 8910i Class :  mid_range
+Mobile: 6800 Class :  low_end
+Mobile: 6100 Class :  low_end
+Mobile: 5100 Class :  low_end
+Mobile: 2100 Class :  low_end
+Mobile: 6650 Class :  low_end
+Mobile: 3650 Class :  mid_range
+Mobile: 3530 Class :  low_end
+Mobile: 3510i Class :  low_end
+Mobile: 6610 Class :  low_end
+Mobile: 3610 Class :  low_end
+Mobile: 9210i Communicator Class :  high_end
+Mobile: 7210 Class :  low_end
+Mobile: 6310i Class :  mid_range
+Mobile: 3510 Class :  low_end
+Mobile: 3410 Class :  low_end
+Mobile: 7650 Class :  low_end
+Mobile: 8910 Class :  low_end
+Mobile: 6510 Class :  low_end
+Mobile: 6500 Class :  low_end
+Mobile: 8855 Class :  low_end
+Mobile: 5210 Class :  low_end
+Mobile: 5510 Class :  low_end
+Mobile: 8310 Class :  low_end
+Mobile: 6310 Class :  mid_range
+Mobile: 3350 Class :  low_end
+Mobile: 3330 Class :  low_end
+Mobile: 8250 Class :  low_end
+Mobile: 9210 Communicator Class :  low_end
+Mobile: 3310 Class :  low_end
+Mobile: 8890 Class :  low_end
+Mobile: 8210 Class :  low_end
+Mobile: 8850 Class :  low_end
+Mobile: 6250 Class :  low_end
+Mobile: 8810 Class :  low_end
+Mobile: 6210 Class :  low_end
+Mobile: 7110 Class :  low_end
+Mobile: 9110i Communicator Class :  low_end
+Mobile: 9000 Communicator Class :  low_end
+Mobile: 3210 Class :  low_end
+Mobile: 6150 Class :  low_end
+Mobile: 6130 Class :  low_end
+Mobile: 6110 Class :  low_end
+Mobile: 5110 Class :  low_end
+Mobile: 3110 Class :  low_end
+Mobile: 8110 Class :  low_end
+Mobile: 2110 Class :  low_end
+Mobile: iPad mini Wi-Fi Class :  mid_range
+Mobile: iPad mini Wi-Fi + Cellular Class :  high_end
+Mobile: iPad 4 Wi-Fi Class :  high_end
+Mobile: iPad 4 Wi-Fi + Cellular Class :  high_end
+Mobile: iPhone 5 Class :  high_end
+Mobile: iPad 3 Wi-Fi + Cellular Class :  high_end
+Mobile: iPad 3 Wi-Fi Class :  high_end
+Mobile: iPhone 4S Class :  high_end
+Mobile: iPad 2 Wi-Fi + 3G Class :  high_end
+Mobile: iPad 2 Wi-Fi Class :  high_end
+Mobile: iPad 2 CDMA Class :  high_end
+Mobile: iPhone 4 Class :  high_end
+Mobile: iPhone 4 CDMA Class :  high_end
+Mobile: iPad Wi-Fi + 3G Class :  high_end
+Mobile: iPad Wi-Fi Class :  high_end
+Mobile: iPhone 3GS Class :  mid_range
+Mobile: iPhone 3G Class :  mid_range
+Mobile: iPhone Class :  high_end
+Mobile: Xperia L Class :  high_end
+Mobile: Xperia SP Class :  high_end
+Mobile: Xperia Tablet Z LTE Class :  high_end
+Mobile: Xperia Tablet Z Wi-Fi Class :  high_end
+Mobile: Xperia Z Class :  high_end
+Mobile: Xperia ZL Class :  high_end
+Mobile: Xperia E dual Class :  mid_range
+Mobile: Xperia E Class :  mid_range
+Mobile: Xperia T LTE Class :  high_end
+Mobile: Xperia Tablet S 3G Class :  high_end
+Mobile: Xperia Tablet S Class :  high_end
+Mobile: Xperia V Class :  mid_range
+Mobile: Xperia J Class :  mid_range
+Mobile: Xperia TX Class :  high_end
+Mobile: Xperia T Class :  mid_range
+Mobile: Xperia SL Class :  mid_range
+Mobile: Xperia tipo dual Class :  mid_range
+Mobile: Xperia tipo Class :  mid_range
+Mobile: Xperia miro Class :  mid_range
+Mobile: Xperia go Class :  mid_range
+Mobile: Xperia acro S Class :  mid_range
+Mobile: Xperia SX SO-05D Class :  high_end
+Mobile: Xperia GX SO-04D Class :  high_end
+Mobile: Xperia acro HD SO-03D Class :  high_end
+Mobile: Xperia acro HD SOI12 Class :  high_end
+Mobile: Xperia neo L Class :  mid_range
+Mobile: Xperia sola Class :  mid_range
+Mobile: Xperia U Class :  mid_range
+Mobile: Xperia P Class :  mid_range
+Mobile: Xperia S Class :  mid_range
+Mobile: Xperia ion HSPA Class :  high_end
+Mobile: Xperia ion LTE Class :  mid_range
+Mobile: Tablet P Class :  mid_range
+Mobile: Tablet P 3G Class :  high_end
+Mobile: Tablet S 3G Class :  high_end
+Mobile: Tablet S Class :  high_end
+Mobile: CMD Z7 Class :  low_end
+Mobile: CMD J70 Class :  low_end
+Mobile: Xperia LT29i Hayabusa Class :  high_end
+Mobile: CMD J7 Class :  low_end
+Mobile: CMD MZ5 Class :  low_end
+Mobile: CMD J6 Class :  low_end
+Mobile: CMD J5 Class :  low_end
+Mobile: CMD Z5 Class :  low_end
+Mobile: CMD CD5 Class :  low_end
+Mobile: CMD C1 Class :  low_end
+Mobile: CMD Z1 plus Class :  low_end
+Mobile: CMD Z1 Class :  low_end
+Mobile: CM-DX 2000 Class :  low_end
+Mobile: CM-DX 1000 Class :  low_end
+Mobile: RAZR D3 XT919 Class :  mid_range
+Mobile: RAZR D1 Class :  mid_range
+Mobile: Electrify M XT905 Class :  high_end
+Mobile: RAZR i XT890 Class :  high_end
+Mobile: DROID RAZR MAXX HD Class :  high_end
+Mobile: DROID RAZR HD Class :  high_end
+Mobile: RAZR HD XT925 Class :  high_end
+Mobile: DROID RAZR M Class :  high_end
+Mobile: RAZR M XT905 Class :  high_end
+Mobile: DEFY XT XT556 Class :  mid_range
+Mobile: Electrify 2 XT881 Class :  high_end
+Mobile: Photon Q 4G LTE XT897 Class :  high_end
+Mobile: Defy Pro XT560 Class :  mid_range
+Mobile: ATRIX HD MB886 Class :  mid_range
+Mobile: XT760 Class :  mid_range
+Mobile: ATRIX TV XT687 Class :  high_end
+Mobile: ATRIX TV XT682 Class :  high_end
+Mobile: MotoGO TV EX440 Class :  mid_range
+Mobile: Motosmart Me XT303 Class :  mid_range
+Mobile: MOTOKEY 3-CHIP EX117 Class :  low_end
+Mobile: RAZR V XT885 Class :  mid_range
+Mobile: RAZR V XT889 Class :  mid_range
+Mobile: RAZR V MT887 Class :  mid_range
+Mobile: MOTOSMART MIX XT550 Class :  mid_range
+Mobile: MotoGO EX430 Class :  mid_range
+Mobile: Motosmart Flip XT611 Class :  mid_range
+Mobile: XT390 Class :  high_end
+Mobile: RAZR MAXX Class :  high_end
+Mobile: DEFY XT535 Class :  mid_range
+Mobile: GLEAM+ WX308 Class :  mid_range
+Mobile: DROID 4 XT894 Class :  high_end
+Mobile: DROID RAZR MAXX Class :  high_end
+Mobile: Motoluxe MT680 Class :  mid_range
+Mobile: Motoluxe XT389 Class :  mid_range
+Mobile: Motoluxe Class :  mid_range
+Mobile: Defy Mini XT321 Class :  mid_range
+Mobile: Defy Mini XT320 Class :  mid_range
+Mobile: XT319 Class :  mid_range
+Mobile: WX306 Class :  low_end
+Mobile: Fire Class :  mid_range
+Mobile: MT917 Class :  mid_range
+Mobile: XT928 Class :  high_end
+Mobile: DROID XYBOARD 8.2 MZ609  Class :  mid_range
+Mobile: DROID XYBOARD 10.1 MZ617 Class :  high_end
+Mobile: XT532 Class :  mid_range
+Mobile: MOTO XT615 Class :  mid_range
+Mobile: EX226 Class :  low_end
+Mobile: Motokey Social Class :  mid_range
+Mobile: XOOM 2 Media Edition 3G MZ608 Class :  high_end
+Mobile: XOOM 2 Media Edition MZ607 Class :  high_end
+Mobile: XOOM 2 3G MZ616 Class :  high_end
+Mobile: XOOM 2 MZ615 Class :  high_end
+Mobile: XOOM Media Edition MZ505 Class :  mid_range
+Mobile: RAZR XT910 Class :  mid_range
+Mobile: DROID RAZR XT912 Class :  mid_range
+Mobile: ATRIX 2 MB865 Class :  mid_range
+Mobile: Admiral XT603 Class :  mid_range
+Mobile: ME632 Class :  mid_range
+Mobile: PRO+ Class :  high_end
+Mobile: DEFY+ Class :  mid_range
+Mobile: EX212 Class :  low_end
+Mobile: EX119 Class :  low_end
+Mobile: MOTOKEY XT EX118 Class :  low_end
+Mobile: MOTOKEY Mini EX109 Class :  low_end
+Mobile: MOTOKEY Mini EX108 Class :  low_end
+Mobile: WX294 Class :  low_end
+Mobile: FIRE XT Class :  mid_range
+Mobile: FIRE XT311 Class :  mid_range
+Mobile: SPICE Key XT317 Class :  mid_range
+Mobile: SPICE Key Class :  mid_range
+Mobile: MILESTONE 3 XT860 Class :  mid_range
+Mobile: DROID 3 Class :  mid_range
+Mobile: Triumph Class :  mid_range
+Mobile: Photon 4G MB855 Class :  mid_range
+Mobile: EX232 Class :  mid_range
+Mobile: WILDER Class :  low_end
+Mobile: MOTO MT870 Class :  mid_range
+Mobile: MOTO MT620 Class :  mid_range
+Mobile: Milestone XT883 Class :  mid_range
+Mobile: MOTO XT882 Class :  mid_range
+Mobile: MOTO XT316 Class :  mid_range
+Mobile: XPRT MB612 Class :  mid_range
+Mobile: GLEAM Class :  low_end
+Mobile: PRO Class :  mid_range
+Mobile: XOOM MZ604 Class :  high_end
+Mobile: XOOM MZ601 Class :  high_end
+Mobile: XOOM MZ600 Class :  high_end
+Mobile: ATRIX Class :  mid_range
+Mobile: ATRIX 4G Class :  mid_range
+Mobile: Cliq 2 Class :  mid_range
+Mobile: DROID BIONIC XT875 Class :  mid_range
+Mobile: DROID X ME811 Class :  mid_range
+Mobile: DROID BIONIC XT865 Class :  mid_range
+Mobile: MOTO ME525 Class :  mid_range
+Mobile: MILESTONE 2 ME722 Class :  mid_range
+Mobile: DROID 2 Global Class :  mid_range
+Mobile: EX122 Class :  low_end
+Mobile: EX128 Class :  mid_range
+Mobile: MOTOTV EX245 Class :  low_end
+Mobile: DROID PRO XT610 Class :  mid_range
+Mobile: XT301 Class :  mid_range
+Mobile: SPICE XT300 Class :  mid_range
+Mobile: FLIPSIDE MB508 Class :  mid_range
+Mobile: MOTO MT716 Class :  mid_range
+Mobile: BRAVO MB520 Class :  mid_range
+Mobile: CITRUS WX445 Class :  mid_range
+Mobile: EX300 Class :  mid_range
+Mobile: EX210 Class :  mid_range
+Mobile: EX201 Class :  mid_range
+Mobile: EX115 Class :  low_end
+Mobile: EX112 Class :  low_end
+Mobile: CUPE Class :  mid_range
+Mobile: DEFY Class :  mid_range
+Mobile: MILESTONE 2 Class :  mid_range
+Mobile: DROID 2 Class :  mid_range
+Mobile: MT810lx Class :  mid_range
+Mobile: XT810 Class :  mid_range
+Mobile: XT806 Class :  mid_range
+Mobile: A1260 Class :  mid_range
+Mobile: A1680 Class :  mid_range
+Mobile: Grasp WX404 Class :  mid_range
+Mobile: Rambler Class :  low_end
+Mobile: CHARM Class :  mid_range
+Mobile: ES400 Class :  mid_range
+Mobile: DROID X2 Class :  mid_range
+Mobile: DROID X Class :  mid_range
+Mobile: MILESTONE XT720 Class :  mid_range
+Mobile: XT720 MOTOROI Class :  mid_range
+Mobile: Quench XT5 XT502 Class :  mid_range
+Mobile: Quench XT3 XT502 Class :  mid_range
+Mobile: FlipOut Class :  mid_range
+Mobile: WX295 Class :  low_end
+Mobile: WX290 Class :  low_end
+Mobile: WX265 Class :  low_end
+Mobile: WX260 Class :  low_end
+Mobile: WX181 Class :  low_end
+Mobile: WX161 Class :  low_end
+Mobile: QUENCH Class :  mid_range
+Mobile: BACKFLIP Class :  mid_range
+Mobile: XT800 ZHISHANG Class :  mid_range
+Mobile: XT701 Class :  mid_range
+Mobile: MT710 ZHILING Class :  mid_range
+Mobile: MOTO XT702 Class :  mid_range
+Mobile: MILESTONE Class :  mid_range
+Mobile: WX395 Class :  low_end
+Mobile: WX390 Class :  low_end
+Mobile: WX288 Class :  low_end
+Mobile: WX280 Class :  low_end
+Mobile: WX180 Class :  low_end
+Mobile: WX160 Class :  low_end
+Mobile: Motocubo A45 Class :  mid_range
+Mobile: DEXT MB220 Class :  mid_range
+Mobile: ROKR ZN50 Class :  mid_range
+Mobile: Karma QA1 Class :  mid_range
+Mobile: L800t Class :  mid_range
+Mobile: W7 Active Edition Class :  low_end
+Mobile: ROKR W6 Class :  low_end
+Mobile: MC55 Class :  high_end
+Mobile: ZN300 Class :  low_end
+Mobile: E11 Class :  mid_range
+Mobile: A3100 Class :  mid_range
+Mobile: A3000 Class :  mid_range
+Mobile: Tundra VA76r Class :  mid_range
+Mobile: W233 Renew Class :  low_end
+Mobile: COCKTAIL VE70 Class :  mid_range
+Mobile: VE66 Class :  mid_range
+Mobile: EM35 Class :  low_end
+Mobile: Aura Class :  high_end
+Mobile: Q 11 Class :  mid_range
+Mobile: VE538 Class :  low_end
+Mobile: RAZR2 V9x Class :  mid_range
+Mobile: ZN200 Class :  low_end
+Mobile: W396 Class :  low_end
+Mobile: W231 Class :  low_end
+Mobile: EM30 Class :  low_end
+Mobile: EM28 Class :  low_end
+Mobile: EM25 Class :  low_end
+Mobile: PEBL VU20 Class :  mid_range
+Mobile: MOTOACTV W450 Class :  low_end
+Mobile: VE75 Class :  mid_range
+Mobile: ZN5 Class :  mid_range
+Mobile: A1210 Class :  mid_range
+Mobile: A1600 Class :  mid_range
+Mobile: A1890 Class :  mid_range
+Mobile: A1800 Class :  mid_range
+Mobile: A810 Class :  low_end
+Mobile: W388 Class :  low_end
+Mobile: Z9 Class :  low_end
+Mobile: Z6w Class :  low_end
+Mobile: Z6c Class :  mid_range
+Mobile: W181 Class :  low_end
+Mobile: W177 Class :  low_end
+Mobile: W161 Class :  low_end
+Mobile: W270 Class :  low_end
+Mobile: W230 Class :  low_end
+Mobile: RIZR Z10 Class :  mid_range
+Mobile: ROKR E8 Class :  low_end
+Mobile: W377 Class :  low_end
+Mobile: W213 Class :  low_end
+Mobile: W180 Class :  low_end
+Mobile: W160 Class :  low_end
+Mobile: U9 Class :  low_end
+Mobile: V1100 Class :  low_end
+Mobile: PEBL U3 Class :  low_end
+Mobile: RAZR2 V9 Class :  mid_range
+Mobile: RAZR2 V8 Class :  mid_range
+Mobile: ROKR W5 Class :  mid_range
+Mobile: W490 Class :  low_end
+Mobile: W395 Class :  low_end
+Mobile: W380 Class :  low_end
+Mobile: W360 Class :  low_end
+Mobile: W218 Class :  low_end
+Mobile: RIZR Z8 Class :  mid_range
+Mobile: KRZR K3 Class :  low_end
+Mobile: SLVR L9 Class :  low_end
+Mobile: Q 9h Class :  mid_range
+Mobile: Q8 Class :  mid_range
+Mobile: W510 Class :  low_end
+Mobile: W215 Class :  low_end
+Mobile: W205 Class :  low_end
+Mobile: ROKR Z6 Class :  low_end
+Mobile: ROKR E6 Class :  mid_range
+Mobile: SLVR L7e Class :  mid_range
+Mobile: RAZR maxx V6 Class :  mid_range
+Mobile: RAZR V3xx Class :  mid_range
+Mobile: RIZR Z3 Class :  mid_range
+Mobile: KRZR K1 Class :  mid_range
+Mobile: W209 Class :  low_end
+Mobile: W375 Class :  low_end
+Mobile: W208 Class :  low_end
+Mobile: MOTOFONE F3 Class :  low_end
+Mobile: W220 Class :  low_end
+Mobile: V195 Class :  low_end
+Mobile: V191 Class :  low_end
+Mobile: ROKR E2 Class :  mid_range
+Mobile: RAZR V3i Class :  mid_range
+Mobile: ROKR E1 Class :  mid_range
+Mobile: A910 Class :  low_end
+Mobile: A1200 Class :  mid_range
+Mobile: A728 Class :  high_end
+Mobile: A732 Class :  mid_range
+Mobile: E895 Class :  mid_range
+Mobile: V3x Class :  mid_range
+Mobile: E1070 Class :  mid_range
+Mobile: E770 Class :  mid_range
+Mobile: SLVR L7 Class :  low_end
+Mobile: PEBL U6 Class :  mid_range
+Mobile: A1010 Class :  mid_range
+Mobile: E1060 Class :  mid_range
+Mobile: E1120 Class :  mid_range
+Mobile: V1050 Class :  mid_range
+Mobile: C261 Class :  low_end
+Mobile: C257 Class :  low_end
+Mobile: C168 Class :  low_end
+Mobile: C139 Class :  low_end
+Mobile: C123 Class :  low_end
+Mobile: C118 Class :  low_end
+Mobile: C117 Class :  low_end
+Mobile: C113a Class :  low_end
+Mobile: C113 Class :  low_end
+Mobile: C390 Class :  mid_range
+Mobile: E680i Class :  mid_range
+Mobile: V560 Class :  low_end
+Mobile: V557 Class :  low_end
+Mobile: V361 Class :  low_end
+Mobile: V360 Class :  low_end
+Mobile: L6 Class :  low_end
+Mobile: L2 Class :  high_end
+Mobile: V235 Class :  low_end
+Mobile: V230 Class :  low_end
+Mobile: V186 Class :  low_end
+Mobile: V176 Class :  low_end
+Mobile: E378i Class :  low_end
+Mobile: V635 Class :  mid_range
+Mobile: A668 Class :  low_end
+Mobile: V980 Class :  low_end
+Mobile: C980 Class :  mid_range
+Mobile: V535 Class :  mid_range
+Mobile: V547 Class :  mid_range
+Mobile: E375 Class :  mid_range
+Mobile: RAZR V3 Class :  mid_range
+Mobile: A780 Class :  mid_range
+Mobile: Droid Bionic Targa Class :  mid_range
+Mobile: Droid XTreme Class :  mid_range
+Mobile: V975 Class :  mid_range
+Mobile: C975 Class :  mid_range
+Mobile: V620 Class :  mid_range
+Mobile: V555 Class :  mid_range
+Mobile: A840 Class :  low_end
+Mobile: E680 Class :  mid_range
+Mobile: E398 Class :  mid_range
+Mobile: C650 Class :  low_end
+Mobile: V226 Class :  high_end
+Mobile: V188 Class :  high_end
+Mobile: V171 Class :  low_end
+Mobile: C155 Class :  low_end
+Mobile: C116 Class :  low_end
+Mobile: C115 Class :  low_end
+Mobile: MPx Class :  high_end
+Mobile: MPx220 Class :  high_end
+Mobile: MPx100 Class :  mid_range
+Mobile: V872 Class :  low_end
+Mobile: V1000 Class :  mid_range
+Mobile: E1000 Class :  mid_range
+Mobile: A1000 Class :  mid_range
+Mobile: A768i Class :  high_end
+Mobile: A630 Class :  low_end
+Mobile: C380/C385 Class :  mid_range
+Mobile: V80 Class :  mid_range
+Mobile: C289 Class :  low_end
+Mobile: C205 Class :  low_end
+Mobile: V400p Class :  mid_range
+Mobile: V220 Class :  high_end
+Mobile: V180 Class :  low_end
+Mobile: V878 Class :  low_end
+Mobile: A925 Class :  high_end
+Mobile: A920 Class :  mid_range
+Mobile: V750 Class :  low_end
+Mobile: MPx200 Class :  mid_range
+Mobile: V690 Class :  low_end
+Mobile: V525 Class :  mid_range
+Mobile: V501 Class :  mid_range
+Mobile: V500 Class :  mid_range
+Mobile: V303 Class :  mid_range
+Mobile: V300 Class :  mid_range
+Mobile: V600 Class :  mid_range
+Mobile: V150 Class :  low_end
+Mobile: E390 Class :  low_end
+Mobile: C550 Class :  low_end
+Mobile: C450 Class :  low_end
+Mobile: C250 Class :  low_end
+Mobile: C230 Class :  low_end
+Mobile: C200 Class :  low_end
+Mobile: A835 Class :  mid_range
+Mobile: A830 Class :  low_end
+Mobile: A760 Class :  high_end
+Mobile: V295 Class :  low_end
+Mobile: V291 Class :  low_end
+Mobile: V290 Class :  low_end
+Mobile: A388c Class :  low_end
+Mobile: C350 Class :  low_end
+Mobile: T725 Class :  low_end
+Mobile: T720i Class :  low_end
+Mobile: T720 Class :  low_end
+Mobile: T190 Class :  low_end
+Mobile: E380 Class :  low_end
+Mobile: E365 Class :  low_end
+Mobile: E360 Class :  low_end
+Mobile: V70 Class :  low_end
+Mobile: C336 Class :  low_end
+Mobile: C333 Class :  low_end
+Mobile: C332 Class :  low_end
+Mobile: C331 Class :  low_end
+Mobile: C300 Class :  low_end
+Mobile: V60i Class :  low_end
+Mobile: V66i Class :  low_end
+Mobile: Accompli 388 Class :  low_end
+Mobile: V60 Class :  low_end
+Mobile: Accompli 008 Class :  low_end
+Mobile: Timeport 280 Class :  low_end
+Mobile: Timeport 260 Class :  low_end
+Mobile: Timeport 250 Class :  low_end
+Mobile: Talkabout T192 Class :  low_end
+Mobile: Talkabout T191 Class :  low_end
+Mobile: Accompli 009 Class :  low_end
+Mobile: V.box(V100) Class :  low_end
+Mobile: V66 Class :  low_end
+Mobile: V50 Class :  low_end
+Mobile: T180 Class :  low_end
+Mobile: A6188 Class :  low_end
+Mobile: v8088 Class :  low_end
+Mobile: Talkabout T2288 Class :  low_end
+Mobile: V2288 Class :  low_end
+Mobile: Timeport P7389 Class :  low_end
+Mobile: Timeport L7089 Class :  low_end
+Mobile: V3690 Class :  low_end
+Mobile: V3688 Class :  low_end
+Mobile: StarTAC 130 Class :  low_end
+Mobile: StarTAC 85 Class :  low_end
+Mobile: StarTAC Rainbow Class :  low_end
+Mobile: StarTAC 75+ Class :  low_end
+Mobile: StarTAC 75 Class :  low_end
+Mobile: SlimLite Class :  low_end
+Mobile: cd930 Class :  low_end
+Mobile: cd920 Class :  low_end
+Mobile: M3188 Class :  low_end
+Mobile: M3288 Class :  low_end
+Mobile: M3588 Class :  low_end
+Mobile: M3688 Class :  low_end
+Mobile: M3788 Class :  low_end
+Mobile: M3888 Class :  low_end
+Mobile: d520 Class :  low_end
+Mobile: First Class :  high_end
+Mobile: One Class :  high_end
+Mobile: Desire U Class :  high_end
+Mobile: Butterfly Class :  high_end
+Mobile: DROID DNA Class :  high_end
+Mobile: One SV CDMA Class :  high_end
+Mobile: One SV Class :  high_end
+Mobile: Desire SV Class :  high_end
+Mobile: One VX Class :  high_end
+Mobile: One X+ Class :  high_end
+Mobile: Windows Phone 8X CDMA Class :  high_end
+Mobile: Windows Phone 8X Class :  high_end
+Mobile: Windows Phone 8S Class :  mid_range
+Mobile: One ST Class :  mid_range
+Mobile: One SC Class :  mid_range
+Mobile: One SU Class :  mid_range
+Mobile: Desire X Class :  mid_range
+Mobile: Desire VT Class :  mid_range
+Mobile: Desire VC Class :  mid_range
+Mobile: Desire V Class :  mid_range
+Mobile: Desire C Class :  mid_range
+Mobile: J Class :  high_end
+Mobile: DROID Incredible 4G LTE Class :  high_end
+Mobile: Evo 4G LTE Class :  high_end
+Mobile: One XC Class :  high_end
+Mobile: One X Class :  high_end
+Mobile: One X AT&T Class :  high_end
+Mobile: One XL Class :  high_end
+Mobile: One S C2 Class :  mid_range
+Mobile: One S Class :  mid_range
+Mobile: Velocity 4G Vodafone Class :  mid_range
+Mobile: One V Class :  mid_range
+Mobile: Velocity 4G Class :  mid_range
+Mobile: Titan II Class :  mid_range
+Mobile: Rezound Class :  high_end
+Mobile: Vivid Class :  mid_range
+Mobile: EVO Design 4G Class :  mid_range
+Mobile: Sensation XL Class :  mid_range
+Mobile: Explorer Class :  mid_range
+Mobile: Amaze 4G Class :  high_end
+Mobile: Raider 4G Class :  mid_range
+Mobile: Rhyme Class :  mid_range
+Mobile: Hero S Class :  mid_range
+Mobile: Rhyme CDMA Class :  mid_range
+Mobile: Sensation XE Class :  mid_range
+Mobile: Jetstream Class :  high_end
+Mobile: Lead Class :  high_end
+Mobile: Titan Class :  mid_range
+Mobile: Radar Class :  mid_range
+Mobile: Panache Class :  high_end
+Mobile: Status Class :  mid_range
+Mobile: Glacier Class :  mid_range
+Mobile: Trophy Class :  mid_range
+Mobile: DROID Incredible 2 Class :  mid_range
+Mobile: Sensation 4G Class :  mid_range
+Mobile: EVO 3D Class :  mid_range
+Mobile: Sensation Class :  mid_range
+Mobile: EVO 3D CDMA Class :  mid_range
+Mobile: HD7S Class :  mid_range
+Mobile: Prime Class :  mid_range
+Mobile: Merge Class :  mid_range
+Mobile: Incredible S Class :  mid_range
+Mobile: Desire S Class :  mid_range
+Mobile: Wildfire S Class :  mid_range
+Mobile: Salsa Class :  mid_range
+Mobile: ChaCha Class :  mid_range
+Mobile: Flyer Class :  high_end
+Mobile: Flyer Wi-Fi Class :  mid_range
+Mobile: EVO View 4G Class :  high_end
+Mobile: Inspire 4G Class :  mid_range
+Mobile: Freestyle Class :  low_end
+Mobile: ThunderBolt 4G Class :  mid_range
+Mobile: EVO Shift 4G Class :  mid_range
+Mobile: Gratia Class :  mid_range
+Mobile: HD7 Class :  mid_range
+Mobile: 7 Pro Class :  mid_range
+Mobile: 7 Surround Class :  mid_range
+Mobile: 7 Mozart Class :  mid_range
+Mobile: 7 Trophy Class :  mid_range
+Mobile: Arrive Class :  mid_range
+Mobile: Desire HD Class :  mid_range
+Mobile: Desire Z Class :  mid_range
+Mobile: Paradise Class :  mid_range
+Mobile: Evo 4G+ Class :  mid_range
+Mobile: Aria Class :  mid_range
+Mobile: Wildfire CDMA Class :  mid_range
+Mobile: Wildfire Class :  mid_range
+Mobile: Desire Class :  mid_range
+Mobile: HD mini Class :  mid_range
+Mobile: Legend Class :  mid_range
+Mobile: Rider Class :  mid_range
+Mobile: Google Nexus One Class :  mid_range
+Mobile: Smart Class :  low_end
+Mobile: HD2 Class :  mid_range
+Mobile: Evo 4G Class :  mid_range
+Mobile: Droid Incredible Class :  mid_range
+Mobile: DROID ERIS Class :  mid_range
+Mobile: Pure Class :  mid_range
+Mobile: Tattoo Class :  mid_range
+Mobile: Touch2 Class :  mid_range
+Mobile: Hero CDMA Class :  mid_range
+Mobile: Hero Class :  mid_range
