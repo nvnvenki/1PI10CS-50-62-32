@@ -18,20 +18,19 @@ class myHandler(BaseHTTPServer.BaseHTTPRequestHandler):
       s.end_headers()
    def do_POST(s):
       # print "Hi in post"
-      # s.logfile = open("logs/log.txt","a")
-      # s.logfile.write(str(datetime.now()) + " | " + "Connection from: " + str(s.client_address))
+      logfile = open("logs/log.txt","a")
       # s.logfile.close()
       json_obj = s.rfile.read(int(s.headers['Content-Length']))
       json_obj = eval(json_obj)
       print json_obj
       if json_obj.has_key('type'):
          if json_obj['type'] == 'signin':
-            res = signin(json_obj)
+            res = signin(json_obj,logfile)
             # s.logfile.write(" | Signin time: " + str(datetime.now()))
          elif json_obj['type'] == 'signup':
-            res = signup(json_obj)
+            res = signup(json_obj,logfile)
          elif json_obj['type'] == 'query':
-            res = query_handle(json_obj)
+            res = query_handle(json_obj,logfile)
       s.send_response(200)
       s.send_header("Access-Control-Allow-Origin","*")
       s.send_header("Content-Type:","application/json; charset=UTF-8")
@@ -50,21 +49,22 @@ class myHandler(BaseHTTPServer.BaseHTTPRequestHandler):
          'sem':'6'
       }
       s.wfile.write(json.dumps(d))
-def signin(json_obj):
+def signin(json_obj,logfile):
       client = pymongo.MongoClient('localhost',27017)
       database = client['device_database']
       collection = database['auth']
       user_name = json_obj['username']
       password = json_obj['password']
-      print "signin"
       cursor = collection.find({'username':user_name,'password':password})
       if cursor.count():
-         # s.logfile.write(" | Signin time: " + str(datetime.now()))
+         logfile.write("signin from\t" + user_name + "\twas successful at\t" + str(datetime.now()) + "\n")
+         logfile.close()
          return '{"status":"True"}'
       else:
-         # s.logfile.write(" | Invalid login " + str(datetime.now()))
+         logfile.write("signin from\t" + user_name + "\twas unsuccessful at\t" + str(datetime.now()) + "\n")
+         logfile.close()
          return '{"status":"False"}'
-def signup(json_obj):
+def signup(json_obj,logfile):
       client = pymongo.MongoClient('localhost',27017)
       database = client['device_database']
       collection = database['auth']
@@ -76,12 +76,16 @@ def signup(json_obj):
       cursor = collection.find({'username':user_name})
       if cursor.count():
          client.close()
+         logfile.write("signup from\t" + user_name + "\twas successful at\t" + str(datetime.now()) + "\n")
+         logfile.close()
          return '{"status":"False"}'
       else:
          collection.insert(json_obj)
          client.close()
+         logfile.write("signup from\t" + user_name + "\twas unsuccessful at\t" + str(datetime.now()) + "\n")
+         logfile.close()
          return '{"status":"True"}'
-def query_handle(json_obj):
+def query_handle(json_obj,logfile):
       client = pymongo.MongoClient('localhost',27017)
       database = client['device_database']
       collection = database['devices']
@@ -107,8 +111,12 @@ def query_handle(json_obj):
             _id = elem.pop('_id')
             li.append(ast.literal_eval(json.dumps(elem)))
          # print li[0]
+         logfile.write("query handling was successful at\t" + str(datetime.now()) + "\n")
+         logfile.close()
          return '{"result":"' + str(li) + '","valid_query":"True"}'
       else:
+         logfile.write("query handling was unsuccessful at\t" + str(datetime.now()) + "\n")
+         logfile.close()
          return '{"valid_query":"False"}'
 def main():
    server_class = BaseHTTPServer.HTTPServer

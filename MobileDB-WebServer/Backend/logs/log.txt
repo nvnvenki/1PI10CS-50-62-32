@@ -1,1 +1,44 @@
-2013-04-11 13:43:26.648431 | Connection from: ('127.0.0.1', 52879) | Signin time: 2013-04-11 13:43:26.6504962013-04-11 13:44:43.963897 | Connection from: ('127.0.0.1', 52881)
+signin from	a	was successful at	2013-04-26 23:32:52.252760
+query handling was unsuccessful at	2013-04-26 23:33:09.692798
+query handling was successful at	2013-04-26 23:33:31.061180
+signin from	a	was successful at	2013-04-27 11:05:10.878063
+signin from	a	was successful at	2013-04-27 11:05:10.882168
+query handling was unsuccessful at	2013-04-27 11:05:26.558290
+query handling was unsuccessful at	2013-04-27 11:06:05.564570
+query handling was successful at	2013-04-27 11:06:33.179741
+query handling was unsuccessful at	2013-04-27 11:07:09.807773
+query handling was successful at	2013-04-27 11:07:23.104155
+query handling was successful at	2013-04-27 11:07:59.808500
+query handling was successful at	2013-04-27 11:08:18.983966
+query handling was successful at	2013-04-27 11:09:07.250906
+query handling was successful at	2013-04-27 11:09:17.776607
+query handling was successful at	2013-04-27 11:09:36.936551
+query handling was successful at	2013-04-27 11:09:55.799776
+query handling was successful at	2013-04-27 11:10:47.616155
+query handling was successful at	2013-04-27 11:11:18.449123
+query handling was successful at	2013-04-27 11:11:24.800120
+query handling was successful at	2013-04-27 11:12:00.495146
+query handling was successful at	2013-04-27 11:13:24.730273
+query handling was successful at	2013-04-27 11:13:49.117545
+query handling was successful at	2013-04-27 11:13:53.882448
+query handling was successful at	2013-04-27 11:14:06.045820
+query handling was successful at	2013-04-27 11:14:11.504592
+query handling was successful at	2013-04-27 11:18:45.337766
+query handling was successful at	2013-04-27 11:20:41.437009
+query handling was successful at	2013-04-27 11:21:06.800507
+query handling was unsuccessful at	2013-04-27 11:21:35.057952
+query handling was successful at	2013-04-27 11:21:53.849489
+query handling was successful at	2013-04-27 11:22:56.440217
+query handling was successful at	2013-04-27 11:23:33.138566
+query handling was successful at	2013-04-27 11:24:42.022447
+query handling was successful at	2013-04-27 11:24:50.201232
+query handling was successful at	2013-04-27 11:24:53.510697
+query handling was successful at	2013-04-27 11:24:59.287810
+query handling was successful at	2013-04-27 11:25:17.811600
+query handling was successful at	2013-04-27 11:25:53.697052
+query handling was successful at	2013-04-27 11:26:04.148214
+query handling was successful at	2013-04-27 11:26:18.964517
+query handling was successful at	2013-04-27 11:26:42.842844
+query handling was successful at	2013-04-27 11:27:38.729232
+query handling was successful at	2013-04-27 11:28:46.109753
+query handling was successful at	2013-04-27 11:28:54.360104

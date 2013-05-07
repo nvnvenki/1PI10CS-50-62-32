@@ -117,8 +117,7 @@ def answer(required_data,select_clause):
                         
                     elif '=' in each_dict[each_feature_name]:
                         number = each_dict[each_feature_name].split('=')
-                        find_dict[each_feature_name] = int(number[1])
-                        
+                        find_dict[each_feature_name.strip()] = int(number[1])
                         find_list.append(find_dict)
                         
                     else:
