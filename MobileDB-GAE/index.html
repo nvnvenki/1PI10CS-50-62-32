@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset = "utf-8">
+	<title>Mobile Adda | Home</title>
+	<link href='http://fonts.googleapis.com/css?family=Sacramento' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/home_page.css">
+	<link rel="stylesheet" href="css/template.css">
+	<link rel="stylesheet" href="css/jquery-ui-1.10.2.custom.css">
+	<link href='http://fonts.googleapis.com/css?family=Gilda+Display' rel='stylesheet' type='text/css'>
+	<link rel="shortcut icon" href="images/favicon.ico">
+</head>
+<body>
+	<header> <!-- header begins here -->
+			<div class="title"> <!-- title div begins here --> 
+				<h1> <a href="index.html">Mobile Adda</a> </h1>
+			</div> <!-- title div ends here -->
+	</header> <!-- header ends here -->
+	
+	<div class="specification">
+		
+		<img src="images/ico.png" alt="#" id="img"><span id="search">Search Mobiles....</span>
+		<form id="query_form">
+			<div class="company">
+				<label for="company">Company:</label>
+				<select name="company_selected" id="company_selected">
+					<option value = "Apple">Apple</option>
+					<option value = "Nokia">Nokia</option>
+					<option value = "Samsung">Samsung</option>
+					<option value="all">All available</option>
+				</select>
+			</div>
+			<br>
+			<div class="required-features">
+				<span id="show">Show</span> <br>
+				<input type="checkbox" name ="os" id="os"><label for="os" id="os_label">Operating system</label> <br>
+				<input type="checkbox" name ="talktime" id="talktime"><label for="talktime" id="talktime_label">Talktime</label> <br>
+				<input type="checkbox" name="camera" id="camera"><label for="camera" id="camera_label">Camera</label> <br>
+				<input type = "checkbox" name="GPS" id="GPS" class="hidden"><label for="GPS" id="GPS_label" class="hidden">GPS</label><br class="hidden" id="br0">
+				<input type = "checkbox" name="Bluetooth" id="Bluetooth" class="hidden"><label for="Bluetooth" id="Bluetooth_label" class="hidden">Bluetooth</label><br class="hidden" id="br1">
+				<input type = "checkbox" name="Price" id="Price" class="hidden"><label for="Price" class="hidden" id="Price_label">Price</label><br class="hidden" id="br2">
+				<span id = "more">More...</span>
+				<span id = "less">..Less</span>
+			</div>
+
+			<div class="conditional-features">
+				<span id="with">With Features</span><br>
+				<label for="Price_c" id="Price_label_c">Price: </label><input type="text" id="Price_c" name="Price_c" placeholder="<100,>200...in EUR"><br>
+				<label for="talktime_c" id="talktime_label_c">Talktime: </label><input type="text" id="talktime_c" name="talktime_c" placeholder=">4, <5.." maxlength='5'><br>
+				<label for="camera_c" id="camera_label_c">Camera: </label><input type="text" id="camera_c" name="camera_c" placeholder=">3, =4..." maxlength='5'><br>
+				<span id = "more">More...</span>
+				<span id = "less">..Less</span>
+			</div>
+			<div class="buttons">
+				<input type="submit" value="Go!">
+				<input type="reset" value="Reselect">
+			</div>
+		</form>
+	</div>
+
+	<!-- <div class="results">
+		
+	</div> -->
+	
+	<!-- javascript includes -->
+	<script src = "scripts/jquery.js"></script>
+	<script src = "scripts/jquery-ui.js"></script>
+	<script src = "scripts/home_script.js"></script>
+</body> 
+</html>

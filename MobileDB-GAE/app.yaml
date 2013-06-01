@@ -1,0 +1,21 @@
+application: pymobileinfo
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /scripts
+  static_dir: scripts
+
+- url: /css
+  static_dir: css
+
+- url: /images
+  static_dir: images
+
+- url: /.*
+  script: main.app
+
+builtins:
+- remote_api: on

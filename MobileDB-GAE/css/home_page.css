@@ -1,0 +1,180 @@
+div.results
+{
+	width:60%;
+	font-family: 'Gilda Display', serif;
+	font-weight: 700;
+	margin:200px;
+	margin-top: 20px;
+	margin-left: 21%;
+	border-radius: 10px;
+	background: transparent;
+}
+
+h2.no-mobile
+{
+	color: red;
+	font-weight: 900;
+
+}
+
+img {
+	width:40px;
+	height: 40px;
+}
+
+#brand-name{
+	margin-left: 30px;
+}
+
+.hidden
+{
+	display: none;
+}
+div.content {
+	font-size: 15px;
+	border-radius: 20px;
+}
+#result-text
+{
+	margin-left:41%;
+	text-shadow:2px 1px 5px black;
+	margin-top: 18
+	0px;
+}
+td{
+	
+	text-align: center;
+  	vertical-align: middle;
+  	width: 400px;
+  	border-radius: 10px;
+}
+table{
+	border-radius: 10px;
+	/*box-shadow: 1px 2px 5px black;*/
+}
+
+tr td:nth-child(1)
+{
+	color:#ffffff;
+    background: -moz-linear-gradient(top,  #1e5799 0%, #2375e0 39%, #7db9e8 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e5799), color-stop(39%,#2375e0), color-stop(100%,#7db9e8)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #1e5799 0%,#2375e0 39%,#7db9e8 100%); /* Chrome10+,Safari5.1+ */
+
+}
+div.helper-div
+{
+	font-family: serif;
+	margin-left:200px;
+	margin-top: 30px;
+/*	background:rgba(0,0,130,0.5);*/
+	background:rgba(0,0,0,0.4);
+	width: 900px;
+	padding: 30px 30px 30px 30px;
+	border-radius: 5px;
+}
+
+.ui-accordion-header:hover
+{
+	-webkit-transform: scale(1.03);
+}
+
+div.specification
+{
+	background: rgba(255,255,230,0.2);
+	border-radius: 32%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	padding: 30px 30px;
+	font-family: 'Gilda Display', serif;
+	text-shadow: 1px 1px 4px #151515;
+
+}
+
+input[type="submit"]
+{
+	margin-left: 38%;
+}
+
+div.specification label
+{
+	font-size: 1.1em;
+	font-weight: 600;
+}
+
+div.specification #more,div.specification #show,div.specification #with,div.specification #less
+{
+	font-size: 1em;
+	margin-left: 0.5%;
+	cursor: pointer;
+}
+div.specification #show,div.specification #with
+{
+	font-weight: bold;
+}
+div.specification #img
+{
+	margin-left: 38%;
+	padding-top: 7px;
+
+}
+div.specification #with
+{
+	margin-left: 10px;
+}
+div.specification #search
+{
+	margin-left: 12px;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+div.specification .company
+{
+	margin-left: 38%;
+	padding-top: 13px;
+
+}
+div.required-features
+{
+	margin-top: 30px;
+	line-height: 30px;
+	margin-left: 7%;
+	width: 40%;
+}
+
+div.buttons
+{
+	margin-top: 23px;
+}
+
+div.conditional-features
+{
+	line-height: 40px;
+	margin-top: -157px;
+	float: right;
+	margin-right: 8%;
+	margin-left: 50%;
+	padding-bottom: 13px;
+}
+div.conditional-features_clicked
+{
+	margin-top: -281px;
+}
+div.conditional-features input[type="text"]
+{
+	float: right;
+	margin-top: 10px;
+	width: 40%;
+	margin-right: 5%;
+
+}
+div.conditional-features label
+{
+	margin-left: 2%;
+}
+
+div.conditional-features #more,div.conditional-features #less
+{
+	margin-left: 10px;
+}
