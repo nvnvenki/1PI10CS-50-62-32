@@ -3,7 +3,7 @@
 This is the Python project.Mobile Device database engine implemented in python using in memory database. 
 <p>
 	
-		<h5>commands: </h5>
+		<h5>commands:(for commandline with inmemory database) </h5>
 					<ul>
 						<li> save - to load the data to the database </li>
 					 <li> query - to query the database</li>
@@ -42,6 +42,20 @@ This is the Python project.Mobile Device database engine implemented in python u
 		
 		 SELECT mobiles FROM Samsung WITH operatingsystem = windows and cost &lt; 10000
 		<br>AND GPS = yes AND rearcamera &gt; 0 
+	<p> 
+		<ul>
+			
+			<li>The inmemory database is organised according to company names : each company directory contains <br>
+				the mobile data of that company - A kind of abstration which makes searching very easier.
+			</li>
+			<li> As a part of this project a sockect client and socket sever which<br> serves multiple clients are implemented</li>
+			<li> A simple web server is written in python which seves multiple <br>clients using rest API(JSON is used here).</li>
+			<li> The data is scrapped from the website gsmarena.com using regex <br> and later regex is substitudes with beatiful soup libray for scrapping <li>
+			<li> The database used to store the data is mongodb. In the earlier stages of this project <br>
+				an in memory databse is used. </li>
+			<li>The project is comepletly ported to google app engine cloud and <br>it uses google data store as database management system</li>
+		</ul>
+	</p>
 	<p> <a href="http://pymobileinfo.appspot.com">Site </a>
 		<img src="https://dl.dropboxusercontent.com/u/109288873/pymobile.png"></p></p>
 </p>		
