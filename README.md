@@ -45,3 +45,13 @@ This is the Python project.Mobile Device database engine implemented in python u
 </p>		
 
 </p>
+<p>
+<h4> contributors: <h4>
+  <ul>
+    
+    <li> Bhuvan (bhuvanlive@gmail.com) </li>
+    
+    <li> Venkatesh (nvnvenki@gmail.com)</li>
+    <li> Pravardhan (pravardhan.kambagi@gmail.com) </li>
+  </ul>
+</p>
