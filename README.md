@@ -1,8 +1,9 @@
 <h1>Mobile Device database engine.</h1>
 <p>
-This is the Python project.Mobile Device database engine implemented in python using in memory database. 
+This is the Python project , done as a part of python elective course.
 <p>
-	
+		<h4> Begining stage of the project </h4>
+		<hr>
 		<h5>commands:(for commandline with inmemory database) </h5>
 					<ul>
 						<li> save - to load the data to the database </li>
@@ -43,6 +44,8 @@ This is the Python project.Mobile Device database engine implemented in python u
 		 SELECT mobiles FROM Samsung WITH operatingsystem = windows and cost &lt; 10000
 		<br>AND GPS = yes AND rearcamera &gt; 0 
 	<p> 
+		<h4>Later stages of the project</h4>
+		<hr>
 		<ul>
 			
 			<li>The inmemory database is organised according to company names : each company directory contains <br>
