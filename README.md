@@ -53,7 +53,7 @@ This is the Python project , done as a part of python elective course.
 			</li>
 			<li> As a part of this project a sockect client and socket sever which<br> serves multiple clients are implemented</li>
 			<li> A simple web server is written in python which seves multiple <br>clients using rest API(JSON is used here).</li>
-			<li> The data is scrapped from the website gsmarena.com using regex <br> and later regex is substitudes with beatiful soup libray for scrapping <li>
+			<li> The data is crawled from the website gsmarena.com using regex <br> and later regex is substitudes with beatiful soup libray for crawling </li>
 			<li> The database used to store the data is mongodb. In the earlier stages of this project <br>
 				an in memory databse is used. </li>
 			<li>The project is comepletly ported to google app engine cloud and <br>it uses google data store as database management system</li>
