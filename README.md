@@ -3,10 +3,12 @@
 This is the Python project.Mobile Device database engine implemented in python using in memory database. 
 <p>
 	
-		-commands    : save - to load the data to the database
-					 : query - to query the database
-					 : close - to close the connection with the server
-	
+		<h5>commands: </h5>
+					<ul>
+						<li> save - to load the data to the database </li>
+					 <li> query - to query the database</li>
+					 <li> close - to close the connection with the server</li>
+					</ul>
  <h4> Query format: </h4>
   	<hr />
   	<ul>
@@ -40,7 +42,7 @@ This is the Python project.Mobile Device database engine implemented in python u
 		
 		 SELECT mobiles FROM Samsung WITH operatingsystem = windows and cost &lt; 10000
 		<br>AND GPS = yes AND rearcamera &gt; 0 
-	<p> <a href="pymobileinfo.appspot.com">Site </a>
+	<p> <a href="http://pymobileinfo.appspot.com">Site </a>
 		<img src="https://dl.dropboxusercontent.com/u/109288873/pymobile.png"></p></p>
 </p>		
 
